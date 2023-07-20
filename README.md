@@ -69,16 +69,6 @@ This project was developed with the following technologies:
 - https://www.npmjs.com/package/react-lottie
 - https://lottiefiles.com/
 
-## ⚙ To Climb Cloud
-- npm run build
-- https://app.netlify.com/drop
-
-
-## ⚙ Test
-<a href="https://restaurant-finder-by-reactjs.netlify.app/" target="_blank">
-    <img alt="" title="snake pink game" src=".github/jogar.svg" width="50px" /> 
-  </a>
-
 <br>
 
-Made with 💜 by Rafael Maciel
+Made with 💜 by Vito Sandrin
